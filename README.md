@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-06-17 10:55:38
- * @LastEditTime: 2021-08-16 10:58:54
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /ws_cloudsolution/database/README.md
--->
 # Database centric cloud solution on Alibaba Cloud
 
 | Solution | Description | Related Cloud Services | Video Tutorial | Solution Page on Alibaba Cloud |
