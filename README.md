@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-06-17 10:55:38
+ * @LastEditTime: 2021-08-16 10:58:54
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /ws_cloudsolution/database/README.md
+-->
 # Database centric cloud solution on Alibaba Cloud
 
 | Solution | Description | Related Cloud Services | Video Tutorial | Solution Page on Alibaba Cloud |
@@ -13,4 +21,4 @@
 | [Deploy and Run Apache Superset on Alibaba Cloud](https://github.com/alibabacloud-howto/opensource_with_apsaradb/tree/main/apache-superset) | Running open source project Apache Superset on Alibaba Cloud with ApsaraDB (Alibaba Cloud Database). | EIP, ECS, RDS PostgreSQL | | |
 | [Deploy and Run Redash on Alibaba Cloud](https://github.com/alibabacloud-howto/opensource_with_apsaradb/tree/main/redash) | Running open source project Redash on Alibaba Cloud with ApsaraDB (Alibaba Cloud Database). | EIP, ECS, RDS PostgreSQL | | |
 | [Deploy and Run Apache OFBiz on Alibaba Cloud](https://github.com/alibabacloud-howto/opensource_with_apsaradb/tree/main/apache-ofbiz) | Running open source project Apache OFBiz on Alibaba Cloud with ApsaraDB (Alibaba Cloud Database). | EIP, ECS, RDS MySQL | | |
-| [Running TPC-H benchmark on AnalyticDB PostgreSQL](https://github.com/alibabacloud-howto/solution-adbpg-labs/tree/master/benchmark-tpc-h) | The full steps of generating TPC-H data set and running TPC-H 22 queries on AnalyticDB PostgreSQL. | EIP, ECS, OSS, AnalyticDB PostgreSQL | | |
+| [Running TPC-H benchmark on AnalyticDB PostgreSQL](https://github.com/alibabacloud-howto/solution-adbpg-labs/tree/master/benchmark-tpc-h) | The full steps of generating TPC-H data set and running TPC-H 22 queries on AnalyticDB PostgreSQL. | EIP, ECS, OSS, AnalyticDB PostgreSQL | [:clapper:](https://www.youtube.com/watch?v=yR3jVBQkrzU) | |
