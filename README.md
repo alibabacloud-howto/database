@@ -24,12 +24,21 @@
 # Database solution guide on Alibaba Cloud
 
 - [Oracle Database Migration](https://www.alibabacloud.com/solutions/oracle-database-migration)
+  
   Migrate your legacy Oracle databases to Alibaba Cloud to save on long-term costs and take advantage of improved scalability, reliability, robust security, high performance, and cloud-native features.
+
 - [Comprehensive Database Migration](https://www.alibabacloud.com/solutions/database_migration)
+  
   Explore Alibaba Cloud's portfolio of fully managed database services, and learn how to leverage a rich set of utility tools and professional database expert services to migrate your business without down time.
+
 - [Cloud Database Solutions for FinTech](https://www.alibabacloud.com/solutions/database-for-fintech)
+  
   To know how cloud databases are used to help Fintech users build their business faster and improve the availability of the system.
+
 - [Cloud Database Solutions for Gaming](https://www.alibabacloud.com/solutions/database-for-gaming)
+  
   See how advanced cloud database can help users in Gaming industrial to meet all the requirements for high throughput with low latency, and even better than their peers.
+
 - [Database Security](https://www.alibabacloud.com/solutions/database-security)
+  
   Protect, backup, and restore your data assets on the cloud with Alibaba Cloud database services.
