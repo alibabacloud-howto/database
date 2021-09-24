@@ -1,4 +1,4 @@
-# Database centric cloud solution on Alibaba Cloud
+# Database centric cloud solution hands-on on Alibaba Cloud
 
 | Solution | Description | Related Cloud Services | Video Tutorial | Solution Page on Alibaba Cloud |
 | :------: | :---------: | :--------------------: | :------------: | :----------------------------: |
@@ -20,3 +20,16 @@
 | [Create an Interactive Roadmap Web App on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-mongodb-labs/tree/main/interactive-roadmap) | This is an interesting web application to create interactive roadmap, timeline or milestone graph built with Node.js and React. The backend data store is on MongoDB. In this tutorial, I will show the steps of build and deployment on Alibaba Cloud ECS and MongoDB. | EIP, ECS, MongoDB | [:clapper:](https://www.youtube.com/watch?v=qhP6CMX2sYc) | |
 | [Create a Social Web App with Next.js and MongoDB on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-mongodb-labs/tree/main/nextjs-mongodb-app) | This is an Next.js and MongoDB social web application, designed with simplicity for learning and real-world applicability in mind with Next.js and MongoDB on cloud. | EIP, ECS, MongoDB | | |
 | [Create an E-Commerce Web App with Node.js Express Framework and MongoDB on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-mongodb-labs/tree/main/e-commerce-application) | This is a demo E-Commerce online store web application that is built with Node.js Express framework. The backend data store is on MongoDB. In this tutorial, I will show the steps of build and deployment on Alibaba Cloud ECS and MongoDB. | EIP, ECS, MongoDB | | |
+
+# Database solution guide on Alibaba Cloud
+
+- [Oracle Database Migration](https://www.alibabacloud.com/solutions/oracle-database-migration)
+  Migrate your legacy Oracle databases to Alibaba Cloud to save on long-term costs and take advantage of improved scalability, reliability, robust security, high performance, and cloud-native features.
+- [Comprehensive Database Migration](https://www.alibabacloud.com/solutions/database_migration)
+  Explore Alibaba Cloud's portfolio of fully managed database services, and learn how to leverage a rich set of utility tools and professional database expert services to migrate your business without down time.
+- [Cloud Database Solutions for FinTech](https://www.alibabacloud.com/solutions/database-for-fintech)
+  To know how cloud databases are used to help Fintech users build their business faster and improve the availability of the system.
+- [Cloud Database Solutions for Gaming](https://www.alibabacloud.com/solutions/database-for-gaming)
+  See how advanced cloud database can help users in Gaming industrial to meet all the requirements for high throughput with low latency, and even better than their peers.
+- [Database Security](https://www.alibabacloud.com/solutions/database-security)
+  Protect, backup, and restore your data assets on the cloud with Alibaba Cloud database services.
