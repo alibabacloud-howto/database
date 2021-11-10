@@ -50,7 +50,7 @@
 ## Reference: Alibaba Cloud Database (ApsaraDB) Logos
 
 | Database Service | Logo |
-| :--------------: | :--: |
+| :-------------- | :-- |
 | RDS (RDS family including RDS for MySQL, RDS for PostgreSQL and RDS for SQL Server)) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/rds-32.png) |
 | RDS for MySQL | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/mysql-32.png) |
 | RDS for PostgreSQL | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/postgresql-32.png) |
