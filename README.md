@@ -46,7 +46,8 @@
   
   Protect, backup, and restore your data assets on the cloud with Alibaba Cloud database services.
 
-# Alibaba Cloud Database (ApsaraDB) Logos
+---
+#### Reference: Alibaba Cloud Database (ApsaraDB) Logos
 
 | Database Service | Logo |
 | :--------------: | :--: |
@@ -54,10 +55,16 @@
 | RDS for MySQL | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/mysql-32.png) |
 | RDS for PostgreSQL | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/postgresql-32.png) |
 | RDS for SQL Server | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/sqlserver-32.png) |
-| PolarDB (PolarDB family including PolarDB for MySQL, PolarDB for PostgreSQL, PolarDB for Oracle and PolarDB-X)) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/polardb-32.png) |
+| PolarDB (PolarDB family including PolarDB for MySQL, PolarDB for PostgreSQL, PolarDB O and PolarDB-X)) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/polardb-32.png) |
 | Redis | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/redis-32.png) |
 | Tair (Enhanced Edition of Redis) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/tair-32.png) |
 | MongoDB | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/mongodb-32.png) |
 | Lindorm | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/lindorm-32.png) |
+| AnalyticDB for MySQL | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/adb-mysql-32.png) |
+| AnalyticDB for PostgreSQL | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/adb-postgresql-32.png) |
+| ClickHouse | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/clickhouse-32.png) |
+| DMS (Data Management Service) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/dms-32.png) |
+| DTS (Data Transmission Service) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/dts-32.png) |
+| DBS (Database Backup Service) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/dbs-32.png) |
 
 Logo files in 16, 32, 64 and 128 dimensions: https://github.com/alibabacloud-howto/database/tree/main/apsaradb-logos
