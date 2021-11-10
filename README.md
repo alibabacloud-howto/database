@@ -47,7 +47,7 @@
   Protect, backup, and restore your data assets on the cloud with Alibaba Cloud database services.
 
 ---
-#### Reference: Alibaba Cloud Database (ApsaraDB) Logos
+## Reference: Alibaba Cloud Database (ApsaraDB) Logos
 
 | Database Service | Logo |
 | :--------------: | :--: |
