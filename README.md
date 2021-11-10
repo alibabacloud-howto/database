@@ -50,7 +50,7 @@
 
 | Database Service | Logo |
 | :--------------: | :--: |
-| RDS (RDS family including RDS for MySQL, RDS for PostgreSQL and RDS for SQL Server)) |  |
+| RDS (RDS family including RDS for MySQL, RDS for PostgreSQL and RDS for SQL Server)) | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/rds-32.png) |
 | RDS for MySQL |  |
 | RDS for PostgreSQL |  |
 | RDS for SQL Server |  |
@@ -60,4 +60,4 @@
 | MongoDB |  |
 | Lindorm |  |
 
-Logo files in 16, 32, 64 and 128 dimensions: 
+Logo files in 16, 32, 64 and 128 dimensions: https://github.com/alibabacloud-howto/database/tree/main/apsaradb-logos
