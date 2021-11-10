@@ -22,6 +22,7 @@
 | [Create an E-Commerce Web App with Node.js Express Framework and MongoDB on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-mongodb-labs/tree/main/e-commerce-application) | This is a demo E-Commerce online store web application that is built with Node.js Express framework. The backend data store is on MongoDB. In this tutorial, I will show the steps of build and deployment on Alibaba Cloud ECS and MongoDB. | EIP, ECS, MongoDB | [:clapper:](https://www.youtube.com/watch?v=s-j0VSQRBfs) | |
 | [Creating a Web Game Map App Using Leaflet, PostgreSQL/PostGIS and Redis on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-interactive-game-map-postgis-redis) | Demo of building game map on Alibaba Cloud: An interactive "Game of Thrones" map powered by Leaflet, PostgreSQL/PostGIS, and Redis. | EIP, ECS, RDS PostgreSQL, Redis | | |
 | [Deploy Application Stack Parse Server with MongoDB on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-applicationstack-parse/tree/main/parse-server-mongodb) | Install and deploy Parse Server with MongoDB on Alibaba Cloud. | EIP, ECS, MongoDB | | |
+| [Deploy Application Stack Parse Server with RDS for PostgreSQL on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-applicationstack-parse/tree/main/parse-server-postgresql) | Install and deploy Parse Server with RDS for PostgreSQL on Alibaba Cloud. | EIP, ECS, RDS PostgreSQL | | |
 
 # Database solution guide on Alibaba Cloud
 
