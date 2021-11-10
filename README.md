@@ -45,3 +45,19 @@
 - [Database Security](https://www.alibabacloud.com/solutions/database-security)
   
   Protect, backup, and restore your data assets on the cloud with Alibaba Cloud database services.
+
+# Alibaba Cloud Database (ApsaraDB) Logos
+
+| Database Service | Logo |
+| :--------------: | :--: |
+| RDS (RDS family including RDS for MySQL, RDS for PostgreSQL and RDS for SQL Server)) |  |
+| RDS for MySQL |  |
+| RDS for PostgreSQL |  |
+| RDS for SQL Server |  |
+| PolarDB (PolarDB family including PolarDB for MySQL, PolarDB for PostgreSQL, PolarDB for Oracle and PolarDB-X)) |  |
+| Redis |  |
+| Tair (Enhanced Edition of Redis) |  |
+| MongoDB |  |
+| Lindorm |  |
+
+Logo files in 16, 32, 64 and 128 dimensions: 
