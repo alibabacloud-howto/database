@@ -60,6 +60,7 @@
 | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/tair-32.png) | Tair (Enhanced Edition of Redis) |
 | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/mongodb-32.png) | MongoDB |
 | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/lindorm-32.png) | Lindorm |
+| ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/hbase-32.png) | HBase |
 | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/adb-mysql-32.png) | AnalyticDB for MySQL |
 | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/adb-postgresql-32.png) | AnalyticDB for PostgreSQL |
 | ![image.png](https://github.com/alibabacloud-howto/database/raw/main/apsaradb-logos/clickhouse-32.png) | ClickHouse |
