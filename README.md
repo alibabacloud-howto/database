@@ -1,5 +1,7 @@
 # Database centric cloud solution hands-on on Alibaba Cloud
 
+Solution here uses [Terraform](https://www.terraform.io/) to provision cloud resources, please refer to https://github.com/alibabacloud-howto/terraform-templates for more detailed information about how to use Terraform to work with Alibaba Cloud database services.
+
 | Solution | Description | Related Cloud Services | Video Tutorial | Solution Page on Alibaba Cloud |
 | :------: | :---------: | :--------------------: | :------------: | :----------------------------: |
 | [Cloud Native WordPress on Alibaba Cloud](https://github.com/alibabacloud-howto/solution-cloud-native-web-hosting) | Quick start with Wordpress on Alibaba Cloud with cloud native features such as high availability, auto-scaling, etc. | EIP, SLB, ECS, ESS, Redis, PolarDB MySQL | [:clapper: Part 1](https://www.youtube.com/watch?v=TnWaGHBxPuw)  [:clapper: Part 2](https://www.youtube.com/watch?v=POQ_nxjnIYM) | [:beginner:](https://www.alibabacloud.com/architecture/solution-implementation/building-auto-scaling-wordpress-website-on-alibaba-cloud) |
