@@ -28,6 +28,7 @@ Solution here uses [Terraform](https://www.terraform.io/) to provision cloud res
 | [Deploy Sharding Service with Apache ShardingSphere Proxy on RDS for PostgreSQL](https://github.com/alibabacloud-howto/opensource_with_apsaradb/tree/main/apache-shardingsphere-postgresql) | Deploy sharding service with Apache ShardingSphere proxy on RDS for PostgreSQL. | EIP, ECS, RDS PostgreSQL | | |
 | [Deploy Sharding Service with Apache ShardingSphere Proxy on RDS for MySQL](https://github.com/alibabacloud-howto/opensource_with_apsaradb/tree/main/apache-shardingsphere-mysql) | Deploy sharding service with Apache ShardingSphere proxy on RDS for MySQL. | EIP, ECS, RDS MySQL | | |
 | [Setup RDS MySQL primary instance and Read-Only instance](https://github.com/alibabacloud-howto/terraform-templates/blob/master/terraform-alicloud-db-samples/rds-mysql-ro/main.tf) | Create and setup RDS MySQL primary instance and Read-Only instance. | RDS MySQL | | |
+| [Provision RDS MySQL automatically using Terraform "local-exec" provisioner](https://github.com/alibabacloud-howto/terraform-templates/tree/master/terraform-alicloud-db-samples/rds-mysql-provisioner-local-exec-sqlfile) | Use Terraform "local-exec" provisioner to provision RDS MySQL automatically. | RDS MySQL | [:clapper:](https://www.youtube.com/watch?v=aRMA9syjWv4) | |
 
 
 # Database solution guide on Alibaba Cloud
